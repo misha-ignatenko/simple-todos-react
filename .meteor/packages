@@ -6,6 +6,8 @@
 
 meteor-platform
 autopublish
-insecure
 bootstrap
 react
+jquery
+accounts-ui
+accounts-password
